@@ -1,0 +1,15 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: monospace;
+  background-image: url(https://images7.alphacoders.com/737/737400.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #6461ab;
+}
+
+nav{
+  color: skyblue
+}
